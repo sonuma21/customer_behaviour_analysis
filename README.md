@@ -40,3 +40,6 @@ An end-to-end data analysis project focused on understanding **customer shopping
 * `Customer_Behaviour_Queries.sql` — SQL queries
 * `Customer_Behaviour_Dashboard.pbix` — Power BI dashboard
 
+##  License
+This project is licensed under the MIT License.
+
