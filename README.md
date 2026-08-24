@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project focused on understanding **customer shopping behavior and purchasing patterns** using Python, SQL, and Power BI.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Python
 * Pandas
@@ -11,15 +11,15 @@ An end-to-end data analysis project focused on understanding **customer shopping
 * Power BI
 * Jupyter Notebook
 
-## 🔄 Project Workflow
+## Project Workflow
 
 **Data Collection → Data Cleaning → Exploratory Data Analysis → SQL Analysis → Power BI Dashboard → Business Insights**
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
-![Customer Shopping Behavior Dashboard](dashboard.png)
+![Customer Shopping Behavior Dashboard](Customer_behaviour_dashboard.png)
 
-## 📌 Key Analysis
+## Key Analysis
 
 * Customer demographics and purchasing behavior
 * Product and category performance
@@ -29,7 +29,7 @@ An end-to-end data analysis project focused on understanding **customer shopping
 * Shipping preferences
 * Review ratings and purchasing trends
 
-## 📈 Key Skills
+##  Key Skills
 
 **Data Cleaning | Exploratory Data Analysis | Python | SQL | MySQL | Power BI | Data Visualization | Business Analysis**
 
